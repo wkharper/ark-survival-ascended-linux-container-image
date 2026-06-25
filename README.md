@@ -594,4 +594,4 @@ Create a ticket on GitHub, I will do my best to fix it. Feel free to open a pull
 ## Start, Stop, and Backup
 - `start.sh`
 - `stop.sh`
-- `ASA_BACKUP_DIR=../backups ASA^CERVER_DIR=../asa-server-1/ ./backup.sh`
+- `ASA_BACKUP_DIR=../backups ARK_SERVER_DIR=../asa-server-1/ ./backup.sh`
